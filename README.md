@@ -1,1 +1,1 @@
-Web application designed to assist landlords with the management of buy-to-let properties. Stores data regarding tenants, contractors and properties. Offers analysis on the return of investment for each property.
+Compound interest calculator GUI created using Python and Tkinter.
